@@ -10,9 +10,8 @@
 ![concurrently]()
 ![nodemon]()
 
-![NODE](https://img.shields.io/badge/-NODE-orange)
-![EXPRESS](https://img.shields.io/badge/-EXPRESS-orange)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-orange)
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-orange)
 ![REACT](https://img.shields.io/badge/-REACT-orange)
 ![NODE](https://img.shields.io/badge/-NODE-orange)
 ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-orange)

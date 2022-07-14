@@ -1,6 +1,16 @@
 # React Portfolio
 
-![react](https://img.shields.io/badge/18.2.0-0?label=react.js&style=for-the-badge&labelColor=white&color=black) ![test](https://img.shields.io/badge/Apollo--Server--Express-3.10.0-red)
+![react](https://img.shields.io/badge/18.2.0-0?label=react.js&style=for-the-badge&labelColor=white&color=black) 
+![Apollo-Server-Express](https://img.shields.io/badge/18.2.0-0?label=apollo-server-express&style=for-the-badge&labelColor=white&color=black)
+![bcrypt](https://img.shields.io/badge/5.0.1-0?label=bcrypt&style=for-the-badge&labelColor=white&color=black)
+![express](https://img.shields.io/badge/4.18.1-0?label=express&style=for-the-badge&labelColor=white&color=black)
+![graphql](https://img.shields.io/badge/16.5.0-0?label=graphql&style=for-the-badge&labelColor=white&color=black)
+![jsonwebtoken](https://img.shields.io/badge/8.5.1-0?label=jsonwebtoken&style=for-the-badge&labelColor=white&color=black)
+![mongoose](https://img.shields.io/badge/6.4.4-0?label=mongoose&style=for-the-badge&labelColor=white&color=black)
+![concurrently]()
+![nodemon]()
+
+
 
 ## Introduction
 

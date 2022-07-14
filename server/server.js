@@ -1,5 +1,6 @@
 const { ApolloServer } = require('apollo-server-express');
 const { typeDefs, resolvers } = require('./schemas/index');
+require('./db');
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3001;

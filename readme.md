@@ -1,6 +1,6 @@
 # React Portfolio
 
-![react](https://img.shields.io/badge/18.2.0-0?label=react.js&style=for-the-badge&labelColor=white&color=black) 
+![react](https://img.shields.io/badge/18.2.0-0?label=react.js&style=for-the-badge&labelColor=white&color=black)
 ![Apollo-Server-Express](https://img.shields.io/badge/18.2.0-0?label=apollo-server-express&style=for-the-badge&labelColor=white&color=black)
 ![bcrypt](https://img.shields.io/badge/5.0.1-0?label=bcrypt&style=for-the-badge&labelColor=white&color=black)
 ![express](https://img.shields.io/badge/4.18.1-0?label=express&style=for-the-badge&labelColor=white&color=black)
@@ -10,7 +10,15 @@
 ![concurrently]()
 ![nodemon]()
 
+![NODE](https://img.shields.io/badge/-NODE-orange)
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-orange)
+![MONGODB](https://img.shields.io/badge/-MONGODB-orange)
+![REACT](https://img.shields.io/badge/-REACT-orange)
+![NODE](https://img.shields.io/badge/-NODE-orange)
+![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-orange)
 
+![JS](https://img.shields.io/badge/-JS-yellow) ![Node](https://img.shields.io/badge/-MySQL2-darkgreen)
+![JEST](https://img.shields.io/badge/-SQL-darkred) ![Sequelize](https://img.shields.io/badge/-Sequelize-blue) ![Dotenv](https://img.shields.io/badge/-Dotenv-purple) ![Express](https://img.shields.io/badge/Express-indigo)
 
 ## Introduction
 

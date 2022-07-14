@@ -3,6 +3,7 @@ const jwt = require('jsonwebtoken');
 const secret = 'mysecretssshhhhhhh';
 const expiration = '2h';
 
+// exporting objects - exporting 2 function middlewear
 module.exports = {
   authMiddleware: function ({ req }) {
     let token = req.body.token || req.query.token || req.headers.authorization;

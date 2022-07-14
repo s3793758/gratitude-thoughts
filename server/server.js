@@ -1,5 +1,5 @@
 const { ApolloServer } = require('apollo-server-express');
-require('./db');
+require('./config/db');
 const { typeDefs, resolvers } = require('./schemas/index');
 const { authMiddleware } = require('./utils/auth');
 const express = require('express');
